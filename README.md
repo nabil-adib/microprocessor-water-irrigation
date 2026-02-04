@@ -1,4 +1,4 @@
-# 🌱 Smart Crop Prediction & Water Irrigation System
+# 🌱 Smart Water Irrigation System
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io)
